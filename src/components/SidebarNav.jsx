@@ -1,12 +1,12 @@
 import React from 'react';
-import { Home, Building2, Users, ChartBar, Settings } from 'lucide-react';
+import { Home, Building2, Users, BarChart3, Settings } from 'lucide-react';
 import { motion } from 'framer-motion';
 
 const navItems = [
   { icon: Home, label: 'Accueil' },
   { icon: Building2, label: 'Biens' },
   { icon: Users, label: 'Leads' },
-  { icon: ChartBar, label: 'Analytics' },
+  { icon: BarChart3, label: 'Analytics' },
   { icon: Settings, label: 'Réglages' },
 ];
 
